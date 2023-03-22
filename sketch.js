@@ -1,8 +1,8 @@
 // Max Fishman Final Project
 
-let n = 6; // Let r = sin(nθ) be a rose in the polar coordinate system, where n is a positive integer. The rose has n petals if n is odd, and 2n petals if n is even.
+let n = 3; // Let r = sin(nθ) be a rose in the polar coordinate system, where n is a positive integer. The rose has n petals if n is odd, and 2n petals if n is even.
 
-let d = 60; //  d is a positive integer and the angles are in degrees, not radians. 
+let d = 120; //  d is a positive integer and the angles are in degrees, not radians. 
 
 let dSlider; // Slider for D
 
