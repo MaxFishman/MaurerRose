@@ -4,6 +4,6 @@ html, body {
   background-color: black; 
 }
 canvas {
-  display: flex;
+  display: center;
   background-color: black; 
 }
